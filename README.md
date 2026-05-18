@@ -1,67 +1,43 @@
-# hi, i'm mubarak 👋
+# hey, i'm mubarak
 
-🎓 honours math (co-op) @ university of waterloo, computational math stream
-waterloo math student building ai + full-stack products. fast iteration, real users, real shipping. interested in ai agents, quant, and tools that make small teams feel huge.
+second-year math co-op at waterloo (computational math stream). i build ai products and ship fast.
 
-## 🚀 about me
+## currently
 
-- 🎓 2nd year honours math (co-op), computational math stream @ uwaterloo
-- 💼 currently ai swe co-op at virvell
-- 🧠 interested in ai agents, quant, and dev tools for small teams
-- 🛠 building agentic platforms, ml systems, and full-stack products
-- 📬 reach me at: mpiracha@uwaterloo.ca
+ai software engineering co-op @ **virvell** (summer 2026).
 
-## 🔧 what i work with
+## things i've shipped
 
-#### 👨‍💻 languages
-- python
-- typescript / javascript
-- c
-- sql
+- **[toolmind](https://tool-mind.vercel.app)**: ai tool directory + comparator. next.js, supabase, gemini api
+- **[pipelineai](https://pipeline-ai-neon.vercel.app)**: csv in, clean python data pipeline out
+- **ml quant trading system**: ensemble ml + kelly criterion. 67.7% return vs s&p's 46.3% over 23 months
+- **multi-agent task planner**: planner / critic / improver agents on supabase + postgres
+- **match my resume ai**: tf-idf + cosine similarity for resume-jd matching
+- **barakah link**: shipped at ummahhacks
+- **t20 world cup 2026 predictor**: logistic regression
+- **ai roast battle app**: built at the e7 agentic ai hackathon
 
-#### 🛠 frameworks & tools
-- next.js / react
-- tailwind
-- node.js
-- fastapi
-- vercel
+more on [mubarakpiracha.xyz](https://mubarakpiracha.xyz)
 
-#### 🤖 ai & ml
-- claude api
-- openai
-- langchain
-- gemini
+## stack
 
-#### 🗄 databases & infra
-- supabase
-- postgres
-- mongodb
+**languages:** python, typescript, javascript, sql
+**frontend:** next.js, react
+**backend / data:** node, supabase, postgres, pandas, scikit-learn
+**ai:** claude api, gemini api
+**tools:** claude code, cursor, antigravity, vercel, git
 
-## 📂 featured projects
+## before this
 
-| project | description |
-| --- | --- |
-| zeus ai | agentic ai platform for small businesses (lead follow-up, conversation mgmt, client outreach) |
-| [toolmind](https://tool-mind.vercel.app) | ai tool directory + comparator |
-| [pipelineai](https://pipeline-ai-neon.vercel.app) | csv in, python data-cleaning script out |
-| barakah link | built at ummahhacks |
-| match my resume ai | tf-idf + cosine similarity resume matcher |
-| multi-agent task planner | planner / critic / improver agents on supabase |
-| ml quant trading system | ensemble ml + kelly criterion |
-| t20 world cup 2026 predictor | logistic regression |
-| direct aid | community aid project |
+- swe intern @ kassam trading co. (may to aug 2025): python data pipelines
+- it intern @ hamdardi.pk (jan to may 2025): backend + automation
 
-## 💭 how i think about building
+## interests
 
-- ship first, polish later
-- real users > clean code
-- learn in public
-- small teams, big leverage
-- boring infra, weird ideas
+ai agents, quant finance, real estate, and shipping things people actually use.
 
-## 🤝 connect with me
+## links
 
-- 🌐 portfolio: https://mubarakpiracha.xyz
-- 💼 linkedin: https://linkedin.com/in/mubarak-ali-piracha-063a58384
-- 🐦 x: https://x.com/mubarkparacha
-- 📬 email: mpiracha@uwaterloo.ca
+- portfolio: [mubarakpiracha.xyz](https://mubarakpiracha.xyz)
+- x: [@mubarkparacha](https://x.com/mubarkparacha)
+- email: mpiracha@uwaterloo.ca
