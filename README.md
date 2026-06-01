@@ -4,8 +4,6 @@ second-year math co-op at waterloo (computational math stream). i build ai produ
 
 ## currently
 
-ai software engineering co-op @ **virvell** (summer 2026).
-
 ## things i've shipped
 
 - **[toolmind](https://tool-mind.vercel.app)**: ai tool directory + comparator. next.js, supabase, gemini api
