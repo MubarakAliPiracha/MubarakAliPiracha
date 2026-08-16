@@ -1,41 +1,27 @@
-# hey, i'm mubarak
+### hey, i'm mubarak 👋
 
-second-year math co-op at waterloo (computational math stream). i build ai products and ship fast.
+second-year math @ waterloo (computational math stream). i build ai products and ship them.
 
-## currently
+- 🌱 **currently:** ai engineering intern @ **coolhand labs** — first non-founding engineer, building an llm observability + optimization platform (rails, node, typescript, agent tooling)
+- 🤖 **deep in:** ai agents & multi-agent harnesses, evals, llm tooling — and quant finance on the side
+- ☁️ **prev:** swe intern @ kassam trading co. · it intern @ hamdard
+- ⚽ football fan; will talk quant finance or real estate with anyone who'll listen
 
-## things i've shipped
+### building
 
-- **[toolmind](https://tool-mind.vercel.app)**: ai tool directory + comparator. next.js, supabase, gemini api
-- **[pipelineai](https://pipeline-ai-neon.vercel.app)**: csv in, clean python data pipeline out
-- **ml quant trading system**: ensemble ml + kelly criterion. 67.7% return vs s&p's 46.3% over 23 months
-- **multi-agent task planner**: planner / critic / improver agents on supabase + postgres
-- **match my resume ai**: tf-idf + cosine similarity for resume-jd matching
-- **barakah link**: shipped at ummahhacks
-- **t20 world cup 2026 predictor**: logistic regression
-- **ai roast battle app**: built at the e7 agentic ai hackathon
+- **[toolmind](https://tool-mind.vercel.app)** — ai tool directory + comparator · next.js, supabase, gemini
+- **multi-agent task planner** — planner / critic / improver agents coordinating over supabase + postgres
+- **ml quant trading system** — ensemble ml + kelly-criterion sizing · backtested 67.7% vs s&p's 46.3% over 23 months
+- **[pipelineai](https://pipeline-ai-neon.vercel.app)** — csv in, clean python data pipeline out
+- more — resume↔jd matcher, world cup 2026 predictor, a few hackathon builds → **[mubarakpiracha.xyz](https://mubarakpiracha.xyz)**
 
-more on [mubarakpiracha.xyz](https://mubarakpiracha.xyz)
+### stack
 
-## stack
+**languages** &nbsp;python · typescript · javascript · sql
+**frontend** &nbsp;next.js · react
+**backend / data** &nbsp;node · supabase · postgres · pandas · scikit-learn
+**ai** &nbsp;claude api · gemini api · claude code
 
-**languages:** python, typescript, javascript, sql
-**frontend:** next.js, react
-**backend / data:** node, supabase, postgres, pandas, scikit-learn
-**ai:** claude api, gemini api
-**tools:** claude code, cursor, antigravity, vercel, git
+### links
 
-## before this
-
-- swe intern @ kassam trading co. (may to aug 2025): python data pipelines
-- it intern @ hamdardi.pk (jan to may 2025): backend + automation
-
-## interests
-
-ai agents, quant finance, real estate, and shipping things people actually use.
-
-## links
-
-- portfolio: [mubarakpiracha.xyz](https://mubarakpiracha.xyz)
-- x: [@mubarkparacha](https://x.com/mubarkparacha)
-- email: mpiracha@uwaterloo.ca
+**[portfolio](https://mubarakpiracha.xyz)** · **[x](https://x.com/mubarkparacha)** · mpiracha@uwaterloo.ca
